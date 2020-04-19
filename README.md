@@ -25,5 +25,5 @@ The platform is built using Python and OR-tools.
 
 **Please check out these links!**
 - https://youtu.be/G2rj6jamp5o
-- Demo: https://drive.google.com/open?id=1gvZxFsP9uATlZZFntsrMpgzLIiaKgoAV
+- Demo: https://youtu.be/djS__s_up0w
 - Demo page: https://bhatramya.github.io/emergency_logistics/
