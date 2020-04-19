@@ -1,5 +1,4 @@
-# emergency_logistics
-Emergency μ-Logistics: Fleet management and Route Optimization for Drones
+# Emergency μ-Logistics: Fleet management and Route Optimization for Drones
 ## Inspiration
 There have been several pandemics in the past, but surely, this is the first time we are fighting it with the help of technology. The virus mainly spreads through droplet infection, and it is quite likely that a patient might infect others on his way to the test center. Soon, the health care systems and test centers will be overwhelmed with patients. Swab based, and a method called loop-mediated isothermal amplification (LAMP) based COVID tests are conducted at home, and are expected to hit the market soon. The patient can be remote, symptomatically-treated and admitted to the hospital only if necessary. This can reduce the average hospitalization time, avoid the risk of spreading the virus and accommodate more patients at the hospital who need intensive care. There is a strong need for a logistics system that is very versatile, low cost, easy to deploy and quick for small payloads. (less than 1000 gms).
 
